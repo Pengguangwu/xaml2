@@ -1,0 +1,2 @@
+E:\Test\GIT\xaml2\RestaurantManager.Models\RestaurantManager.Models.csproj;neutral
+E:\Test\GIT\xaml2\RestaurantManager.UniversalWindows\RestaurantManager.UniversalWindows.csproj;x86
